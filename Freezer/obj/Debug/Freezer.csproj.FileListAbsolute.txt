@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Freezer\Freezer\bin\Debug\Freezer.exe.config
+C:\Users\Admin\source\repos\Freezer\Freezer\bin\Debug\Freezer.exe
+C:\Users\Admin\source\repos\Freezer\Freezer\bin\Debug\Freezer.pdb
+C:\Users\Admin\source\repos\Freezer\Freezer\obj\Debug\Freezer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Freezer\Freezer\obj\Debug\Freezer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Freezer\Freezer\obj\Debug\Freezer.exe
+C:\Users\Admin\source\repos\Freezer\Freezer\obj\Debug\Freezer.pdb
